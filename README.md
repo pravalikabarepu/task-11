@@ -59,6 +59,4 @@ The following data preparation steps were performed:
 The Store Sales Time Series Analysis provided valuable insights into the company’s sales performance and monthly sales trends. By cleaning and preparing the sales data, converting the Order Date into a proper datetime format, and aggregating sales on a monthly basis, the analysis helped identify changes and patterns in sales over time.
 
 
-)
 
-monthly_sales.head()
